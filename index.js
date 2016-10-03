@@ -1,4 +1,4 @@
-alert(max(10, -20));
+/*alert(max(10, -20));
 function sum(a, b, c) {
 return Math.sqrt(a + b + c); 
 }
@@ -13,7 +13,7 @@ function max (a, b) {
 
 var a = 2;
 var b = 5;
-var c = 2;
+var c = 2;*/
 
 //var name = prompt('Input your name');
 //var hello ="Hello"+ name;
